@@ -56,7 +56,7 @@ export function RightNow() {
             onClick={handleEmergency}
             disabled={isEmergency}
           >
-            {isEmergency ? "Contacting..." : "EMERGENCY"}
+            {isEmergency ? "Contacting..." : "HELP"}
           </Button>
 
           {location && (

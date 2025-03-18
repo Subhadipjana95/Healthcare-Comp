@@ -27,10 +27,10 @@ function App() {
                     <span className="mr-2 text-2xl group-hover:scale-110 transition-transform duration-200 hover:rotate-6">👤</span> Profile
                   </Link>
                   <Link to="/emergency" className="text-gray-900 inline-flex items-center px-2 pt-1 text-sm font-medium border-b-2 border-transparent hover:border-primary hover:text-primary transition-all duration-200 transform hover:scale-105 group">
-                    <span className="mr-2 text-2xl group-hover:scale-110 transition-transform duration-200 hover:rotate-6">🚨</span> Emergency
+                    <span className="mr-2 text-2xl group-hover:scale-110 transition-transform duration-200 hover:rotate-6">🚑</span> Right Now 
                   </Link>
                   <Link to="/right-now" className="text-gray-900 inline-flex items-center px-2 pt-1 text-sm font-medium border-b-2 border-transparent hover:border-primary hover:text-primary transition-all duration-200 transform hover:scale-105 group">
-                    <span className="mr-2 text-2xl group-hover:scale-110 transition-transform duration-200 hover:rotate-6">🚑</span> Right Now
+                    <span className="mr-2 text-2xl group-hover:scale-110 transition-transform duration-200 hover:rotate-6">🚨</span> Emergency
                   </Link>
                   <Link to="/documents" className="text-gray-900 inline-flex items-center px-2 pt-1 text-sm font-medium border-b-2 border-transparent hover:border-primary hover:text-primary transition-all duration-200 transform hover:scale-105 group">
                     <span className="mr-2 text-2xl group-hover:scale-110 transition-transform duration-200 hover:rotate-6">📄</span> Documents
